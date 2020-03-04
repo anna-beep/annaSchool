@@ -29,7 +29,6 @@ public class Section {
         currentSize++;
     }
 
-
     public String getSubject() {
         return subject;
     }

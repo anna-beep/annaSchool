@@ -19,7 +19,6 @@ public class School {
         sections[sectionCount] = s;
         sectionCount++;
     }
-
     private Section[] getSections() {
         return sections;
     }

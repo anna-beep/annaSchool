@@ -24,7 +24,6 @@ public class Student extends Person {
         sections[sectionCount] = s;
         sectionCount++;
     }
-
     public int getSectionCount() {
         return sectionCount;
     }

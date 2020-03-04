@@ -8,7 +8,6 @@ public class Person {
 //        NextId++;
     }
 
-
     public String getName() {
         return name;
     }

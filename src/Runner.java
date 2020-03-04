@@ -52,7 +52,6 @@ public class Runner {
         humble.addSection(compSci);
         afraz.addSection(compSci);
 
-
         System.out.println(berkeleyHigh.toString());
 
         System.out.println(math.toString());

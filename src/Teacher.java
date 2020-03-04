@@ -40,6 +40,5 @@ public class Teacher extends Person {
         o+=".";
         return o;
     }
-
 }
 
